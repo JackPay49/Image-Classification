@@ -5,5 +5,5 @@ This experiment was conducted as part of coursework for the UoM course unit COMP
 
 ## Quick-Links
 [Project Report](https://github.com/JackPay49/Image-Classification/blob/main/report/report.pdf)
-[Project Code]([https://github.com/JackPay49/Image-Classification/blob/main/report/report.pdf](https://github.com/JackPay49/Image-Classification/blob/main/code/experimentation.ipynb
-))
+
+[Project Code](https://github.com/JackPay49/Image-Classification/blob/main/code/experimentation.ipynb)
